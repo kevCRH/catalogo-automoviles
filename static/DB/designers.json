@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Flavio Manzoni",
+    "biography": "Diseñador jefe de Ferrari, conocido por su trabajo en varios modelos de lujo.",
+    "nationality": "Italiana",
+    "awards": "Premio Compasso d'Oro",
+    "imageDe": "https://www.indesignlive.com/wp-content/uploads/2016/06/Flavio-Manzoni-01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mitja Borkert",
+    "biography": "Diseñador jefe de Lamborghini, famoso por el diseño del Huracán.",
+    "nationality": "Alemana",
+    "awards": "German Design Award",
+    "imageDe": "https://preview.thenewsmarket.com/Previews/lamb/StillAssets/1920x1440/585761_v2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rob Melville",
+    "biography": "Diseñador jefe de McLaren, conocido por su enfoque en la aerodinámica y el rendimiento.",
+    "nationality": "Británica",
+    "awards": "Red Dot Design Award",
+    "imageDe": "https://www.christiesrealestate.com/blog/wp-content/uploads/2021/07/McLaren-Design-Rob-Melville.jpg?is-pending-load=1"
+  },
+  {
+    "id": 4,
+    "name": "Michael Mauer",
+    "biography": "Diseñador jefe de Porsche, responsable de varios modelos emblemáticos.",
+    "nationality": "Alemana",
+    "awards": "Good Design Award",
+    "imageDe": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_690x388/dam/pnr/2023/Products/Interview-Michael-Mauer/Mutprobe.jpg/jcr:content/Mutprobe.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Marek Reichman",
+    "biography": "Diseñador jefe de Aston Martin, conocido por su trabajo en el Vantage.",
+    "nationality": "Británica",
+    "awards": "Automotive News Award",
+    "imageDe": "https://cdn.boatinternational.com/convert/bi_prd/bi/library_images/DvUCjmjDTLiyQXzvp6DN_marek-reichman-aston-martin.jpg/r%5Bwidth%5D=1920/DvUCjmjDTLiyQXzvp6DN_marek-reichman-aston-martin.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Etienne Salomé",
+    "biography": "Diseñador jefe de Bugatti, famoso por el diseño del Chiron.",
+    "nationality": "Francesa",
+    "awards": "Prix du Design",
+    "imageDe": "https://eluniversal.com.mx/sites/default/files/2019/03/19/etienne_salome.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Horacio Pagani",
+    "biography": "Fundador y diseñador jefe de Pagani, conocido por el Huayra.",
+    "nationality": "Argentina",
+    "awards": "Design Museum Award",
+    "imageDe": "https://www.avvenire.it/c/2024/PublishingImages/920af08e86dd42d1bf972255d8f2f2dc/Horacio-Pagani-1.jpg?width=1024"
+  },
+  {
+    "id": 8,
+    "name": "Christian von Koenigsegg",
+    "biography": "Fundador y diseñador jefe de Koenigsegg, famoso por el Jesko.",
+    "nationality": "Sueca",
+    "awards": "International Engine of the Year",
+    "imageDe": "https://cdn2.atraccion360.com/media/aa/styles/gallerie/public/images/2020/07/3bc51a72-6a68-11e9-994e-1d1e521ccbf6imagehires120113.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tadao Mori",
+    "biography": "Diseñador jefe de Lexus, conocido por el LFA.",
+    "nationality": "Japonesa",
+    "awards": "Design Excellence Award",
+    "imageDe": "https://www.carbodydesign.com/media/2016/04/Lexus-LC-Chief-Designer-Tadao-Mori.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Camilo Pardo",
+    "biography": "Diseñador jefe de Ford, famoso por el GT.",
+    "nationality": "Estadounidense",
+    "awards": "Detroit Auto Show Award",
+    "imageDe": "https://www.carartspot.com/media/wysiwyg/2015/07/ScreenHunter_861-Jul.-12-19.53.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tom Peters",
+    "biography": "Diseñador jefe de Chevrolet, conocido por el Corvette Z06.",
+    "nationality": "Estadounidense",
+    "awards": "Motor Trend Award",
+    "imageDe": "https://www.corvetteblogger.com/images/content/2013/032513_3.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Klaus Busse",
+    "biography": "Diseñador jefe de Maserati, conocido por el MC20.",
+    "nationality": "Italiana",
+    "awards": "Auto Design Award",
+    "imageDe": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2023/02/klaus-busse-maserati-design.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Franz von Holzhausen",
+    "biography": "Diseñador jefe de Tesla, famoso por el Roadster.",
+    "nationality": "Estadounidense",
+    "awards": "Green Car Design Award",
+    "imageDe": "https://image.cnbcfm.com/api/v1/image/107159370-1669848842495-FRANZ.jpg?v=1669899601"
+  },
+  {
+    "id": 14,
+    "name": "Mate Rimac",
+    "biography": "Fundador y diseñador jefe de Rimac, conocido por el Nevera.",
+    "nationality": "Croata",
+    "awards": "International Award for Sustainable Design",
+    "imageDe": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/156D9/production/_116996778_450febb5-5305-419b-8aae-15c806ad8036.jpg.webp"
+  }
+]

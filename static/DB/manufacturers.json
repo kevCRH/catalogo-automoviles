@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Ferrari",
+    "country": "Italia",
+    "founded": 1939,
+    "founder": "Enzo Ferrari",
+    "biography": "Ferrari es una marca icónica de automóviles deportivos fundada por Enzo Ferrari. Reconocida por su alto rendimiento y diseño distintivo, Ferrari ha ganado numerosas competiciones de Fórmula 1 y es símbolo de lujo y exclusividad en el mundo automovilístico.",
+    "imageManu": "https://www.carlogos.org/car-logos/ferrari-logo-2002-640.png"
+  },
+  {
+    "id": 2,
+    "name": "Lamborghini",
+    "country": "Italia",
+    "founded": 1963,
+    "founder": "Ferruccio Lamborghini",
+    "biography": "Fundada por Ferruccio Lamborghini, Lamborghini es famosa por sus superdeportivos de alto rendimiento y diseño extravagante. La marca se creó para rivalizar con Ferrari, y desde entonces ha sido sinónimo de lujo y velocidad.",
+    "imageManu": "https://www.carlogos.org/car-logos/lamborghini-logo-1998-640.png"
+  },
+  {
+    "id": 3,
+    "name": "McLaren",
+    "country": "Reino Unido",
+    "founded": 1963,
+    "founder": "Bruce McLaren",
+    "biography": "McLaren, fundada por Bruce McLaren, es una empresa británica que ha dejado una marca significativa tanto en la Fórmula 1 como en la producción de autos deportivos. La marca es conocida por su innovación tecnológica y diseño de alto rendimiento.",
+    "imageManu": "https://www.carlogos.org/car-logos/mclaren-logo.png"
+  },
+  {
+    "id": 4,
+    "name": "Porsche",
+    "country": "Alemania",
+    "founded": 1931,
+    "founder": "Ferdinand Porsche",
+    "biography": "Porsche, establecida por Ferdinand Porsche, es famosa por sus autos deportivos y deportivos de lujo, como el icónico 911. La marca alemana es conocida por su ingeniería precisa y su éxito en carreras de resistencia.",
+    "imageManu": "https://www.carlogos.org/car-logos/porsche-logo.png"
+  },
+  {
+    "id": 5,
+    "name": "Aston Martin",
+    "country": "Reino Unido",
+    "founded": 1913,
+    "founder": "Lionel Martin y Robert Bamford",
+    "biography": "Aston Martin fue fundada por Lionel Martin y Robert Bamford, y es conocida por sus autos deportivos de lujo. La marca ha sido un símbolo de elegancia y sofisticación, con un fuerte vínculo con el mundo del cine, especialmente con el personaje de James Bond.",
+    "imageManu": "https://www.carlogos.org/car-logos/aston-martin-logo.png"
+  },
+  {
+    "id": 6,
+    "name": "Bugatti",
+    "country": "Francia",
+    "founded": 1909,
+    "founder": "Ettore Bugatti",
+    "biography": "Fundada por Ettore Bugatti, la marca es famosa por sus autos deportivos de lujo y alta velocidad. Bugatti ha sido sinónimo de exclusividad y tecnología avanzada, con modelos como el Veyron y Chiron destacándose en la industria.",
+    "imageManu": "https://www.carlogos.org/car-logos/bugatti-logo.png"
+  },
+  {
+    "id": 7,
+    "name": "Pagani",
+    "country": "Italia",
+    "founded": 1992,
+    "founder": "Horacio Pagani",
+    "biography": "Pagani, establecida por Horacio Pagani, es conocida por sus superdeportivos artesanales y de alto rendimiento. La marca se destaca por su atención al detalle y la exclusividad de sus vehículos, como el Huayra.",
+    "imageManu": "https://www.carlogos.org/car-logos/pagani-logo.png"
+  },
+  {
+    "id": 8,
+    "name": "Koenigsegg",
+    "country": "Suecia",
+    "founded": 1994,
+    "founder": "Christian von Koenigsegg",
+    "biography": "Koenigsegg, fundada por Christian von Koenigsegg, es una marca sueca famosa por sus superdeportivos de alta tecnología y rendimiento. La empresa se ha destacado por la innovación en el diseño y la ingeniería de autos extremadamente rápidos.",
+    "imageManu": "https://www.carlogos.org/car-logos/koenigsegg-logo.png"
+  },
+  {
+    "id": 9,
+    "name": "Lexus",
+    "country": "Japón",
+    "founded": 1989,
+    "founder": "Toyota Motor Corporation",
+    "biography": "Lexus es la marca de lujo de Toyota Motor Corporation, establecida en 1989. Conocida por su calidad de construcción y lujo, Lexus ofrece una gama de vehículos que combinan rendimiento con comodidad y tecnología avanzada.",
+    "imageManu": "https://www.carlogos.org/car-logos/lexus-logo.png"
+  },
+  {
+    "id": 10,
+    "name": "Ford",
+    "country": "Estados Unidos",
+    "founded": 1903,
+    "founder": "Henry Ford",
+    "biography": "Ford, fundada por Henry Ford, es una de las marcas automovilísticas más antiguas y conocidas. La compañía revolucionó la industria con la producción en cadena, y sus modelos como el Mustang y el F-150 son icónicos en el mercado global.",
+    "imageManu": "https://www.carlogos.org/car-logos/ford-logo.png"
+  },
+  {
+    "id": 11,
+    "name": "Chevrolet",
+    "country": "Estados Unidos",
+    "founded": 1911,
+    "founder": "Louis Chevrolet y William C. Durant",
+    "biography": "Chevrolet, cofundada por Louis Chevrolet y William C. Durant, es una marca estadounidense conocida por su amplia gama de vehículos, desde autos económicos hasta camionetas y deportivos, destacándose por su fiabilidad y valor.",
+    "imageManu": "https://www.carlogos.org/car-logos/chevrolet-logo.png"
+  },
+  {
+    "id": 12,
+    "name": "Maserati",
+    "country": "Italia",
+    "founded": 1914,
+    "founder": "Alfieri Maserati",
+    "biography": "Maserati, establecida por Alfieri Maserati, es una marca italiana de autos deportivos y de lujo, conocida por su diseño elegante y rendimiento dinámico. La marca ha ganado prestigio en el mercado de autos de alto nivel.",
+    "imageManu": "https://www.carlogos.org/car-logos/maserati-logo.png"
+  },
+  {
+    "id": 13,
+    "name": "Tesla",
+    "country": "Estados Unidos",
+    "founded": 2003,
+    "founder": "Martin Eberhard y Marc Tarpenning",
+    "biography": "Tesla, fundada por Martin Eberhard y Marc Tarpenning, es una pionera en la industria de vehículos eléctricos. Conocida por sus innovadores modelos como el Model S y el Model 3, Tesla ha cambiado la percepción de los autos eléctricos en el mercado global.",
+    "imageManu": "https://www.carlogos.org/car-logos/tesla-logo.png"
+  },
+  {
+    "id": 14,
+    "name": "Rimac",
+    "country": "Croacia",
+    "founded": 2009,
+    "founder": "Mate Rimac",
+    "biography": "Rimac, establecida por Mate Rimac, es una marca croata que se especializa en superdeportivos eléctricos de alto rendimiento. Con modelos como el Rimac C_Two, la empresa ha puesto a Croacia en el mapa de la industria de autos de lujo.",
+    "imageManu": "https://www.carlogos.org/logo/Rimac-logo-2016-640x550.jpg"
+  }
+]

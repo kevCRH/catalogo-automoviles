@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Ferrari 488 GTB",
+    "model": "488 GTB",
+    "year": 2015,
+    "type": "superdeportivo",
+    "price": "250000",
+    "manufacturerId": 1,
+    "designerId": 1,
+    "image": "https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/8837/ferrari-488-gtb-6.jpg?resize=1200:*"
+  },
+  {
+    "id": 2,
+    "name": "Lamborghini Huracán",
+    "model": "Huracán",
+    "year": 2014,
+    "type": "superdeportivo",
+    "price": "260000",
+    "manufacturerId": 2,
+    "designerId": 2,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2020-lamborghini-huracan-evo-spyder-drive-111-1564544744.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+  },
+  {
+    "id": 3,
+    "name": "McLaren 720S",
+    "model": "720S",
+    "year": 2023,
+    "type": "superdeportivo",
+    "price": "299000",
+    "manufacturerId": 3,
+    "designerId": 3,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2019-mclaren-720s-spider-508-1565493374.jpg?crop=0.629xw:0.577xh;0.303xw,0.402xh&resize=2048:*"
+  },
+  {
+    "id": 4,
+    "name": "Porsche 911 GT3 RS",
+    "model": "911 GT3 RS",
+    "year": 2024,
+    "type": "superdeportivo",
+    "price": "187500",
+    "manufacturerId": 4,
+    "designerId": 4,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2024-porsche-911-st-exterior-112-64c929acc5b31.jpg?crop=0.640xw:0.541xh;0.0684xw,0.210xh&resize=2048:*"
+  },
+  {
+    "id": 5,
+    "name": "Aston Martin Vantage",
+    "model": "Vantage",
+    "year": 2025,
+    "type": "superdeportivo",
+    "price": "150000",
+    "manufacturerId": 5,
+    "designerId": 5,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2025-aston-martin-vantage-108-663e2d1b6c304.jpg?crop=0.504xw:0.754xh;0.215xw,0.246xh&resize=360:*"
+  },
+  {
+    "id": 6,
+    "name": "Bugatti Chiron",
+    "model": "Chiron",
+    "year": 2022,
+    "type": "hiperdeportivo",
+    "price": "3000000",
+    "manufacturerId": 6,
+    "designerId": 6,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/bugatti-sur-mesure-chiron-pur-sport-106-1639069047.jpg?crop=0.670xw:1.00xh;0.285xw,0&resize=360:*"
+  },
+  {
+    "id": 7,
+    "name": "Pagani Huayra",
+    "model": "Huayra",
+    "year": 2020,
+    "type": "hiperdeportivo",
+    "price": "3200000",
+    "manufacturerId": 7,
+    "designerId": 7,
+    "image": "https://hips.hearstapps.net/hmg-prod/images/pagani-huayra-bc-roadster-121-1564501509.jpg?crop=0.612xw:1.00xh;0.200xw,0&resize=360:*"
+  },
+  {
+    "id": 8,
+    "name": "Koenigsegg Jesko",
+    "model": "Jesko",
+    "year": 2020,
+    "type": "hiperdeportivo",
+    "price": "3000000",
+    "manufacturerId": 8,
+    "designerId": 8,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/koenigsegg-jesko-absolut-02-66830adba45b0.jpg?crop=0.668xw:1.00xh;0.153xw,0&resize=360:*"
+  },
+  {
+    "id": 9,
+    "name": "Lexus LFA",
+    "model": "LFA",
+    "year": 2010,
+    "type": "superdeportivo",
+    "price": "375000",
+    "manufacturerId": 9,
+    "designerId": 9,
+    "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/10q1/326075/2012-lexus-lfa-photo-326201-s-986x603.jpg?crop=0.611xw:0.997xh;0.111xw,0&resize=360:*"
+  },
+  {
+    "id": 10,
+    "name": "Ford GT",
+    "model": "GT",
+    "year": 2022,
+    "type": "superdeportivo",
+    "price": "450000",
+    "manufacturerId": 10,
+    "designerId": 10,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-ford-gt-heritage-edition-110-1628777666.jpg?crop=0.670xw:1.00xh;0.268xw,0&resize=360:*"
+  },
+  {
+    "id": 11,
+    "name": "Chevrolet Corvette Z06",
+    "model": "Corvette Z06",
+    "year": 2025,
+    "type": "superdeportivo",
+    "price": "106000",
+    "manufacturerId": 11,
+    "designerId": 11,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-003-1666360392.jpg?crop=0.670xw:1.00xh;0.263xw,0&resize=360:*"
+  },
+  {
+    "id": 12,
+    "name": "Maserati MC20",
+    "model": "MC20",
+    "year": 2024,
+    "type": "superdeportivo",
+    "price": "210000",
+    "manufacturerId": 12,
+    "designerId": 12,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2023-maserati-mc20-cielo-spyder-28-1666275747.jpg?crop=0.438xw:0.654xh;0.210xw,0.346xh&resize=360:*"
+  },
+  {
+    "id": 13,
+    "name": "Tesla Roadster",
+    "model": "Roadster",
+    "year": 2026,
+    "type": "eléctrico",
+    "price": "200000",
+    "manufacturerId": 13,
+    "designerId": 13,
+    "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2017/11/Tesla-Roadster-103.jpg?crop=0.615xw:1.00xh;0.212xw,0&resize=360:*"
+  },
+  {
+    "id": 14,
+    "name": "Rimac Nevera",
+    "model": "Nevera",
+    "year": 2024,
+    "type": "eléctrico",
+    "price": "2000000",
+    "manufacturerId": 14,
+    "designerId": 14,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/rimac-nevera-high-res-4-1660738837.jpg?crop=0.526xw:0.787xh;0.258xw,0.182xh&resize=360:*"
+  },
+  {
+    "id": 15,
+    "name": "Ferrari SF90 Stradale",
+    "model": "SF90 Stradale",
+    "year": 2023,
+    "type": "híbrido",
+    "price": "625000",
+    "manufacturerId": 1,
+    "designerId": 1,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2023-ferrari-sf90-spider-101-1673279831.jpg?crop=0.567xw:1.00xh;0.300xw,0&resize=360:*"
+  }
+]
